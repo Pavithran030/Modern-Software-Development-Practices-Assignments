@@ -22,7 +22,7 @@
 >
 > -  [Live Application](https://ledger.pavithran-g.tech/)  
 >
-> -  [GitHub Pages](https://ledger.pavithran-g.tech/)
+> -  [GitHub Pages](https://pavithran030.github.io/AIML-one-credit/)
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
