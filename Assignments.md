@@ -1,46 +1,31 @@
 # Assignment Submissions
 
 # 1 Certification Requirement
-> - AI Fluency for Students
+> - [[AI Fluency for Students](http://verify.skilljar.com/c/az2upuqtrkeh)]
 >
 > Kindly submit the verification link here 
-> - Introduction to Agent Skills
+> - [[Introduction to Agent Skills](http://verify.skilljar.com/c/adyuzfb7i5sh)]
 >
-> Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
 >
-> - Kindly submit the GitHub Repo URL
+> - [[GitHub Repo](https://github.com/Pavithran-G7/orbital-portfolio.git)]
 >
-> - Kindly submit the Vercel Deployment URL
+> - [[Deployment URL](https://portfolio.pavithran-g.tech/)]
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - [[GitHub Pages](https://pavithran-g7.github.io/orbital-portfolio/)
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> - Kindly submit the GitHub Repo URL
+> -  [GitHub Repo]([https://github.com/Surya-074/one-credit-course/tree/team)]
 >
-> - Kindly submit the Live Application URL (Domain)
+> -  [[Live Application](https://ledger.pavithran-g.tech/)]  
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> -  [[GitHub Pages](https://ledger.pavithran-g.tech/)]
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
-
-## For Second Year Buddies
-
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
+> [[LinkedIn post URL](https://www.linkedin.com/posts/pavithran030_git-github-ai-activity-7444403890676203521-Czw6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEN6OlAB1h_0FHalmOtjpcuap68tBYs4ZLk)]
